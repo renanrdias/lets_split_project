@@ -1,16 +1,23 @@
 # lets_split_project
 
-A new Flutter project.
+## The Main Goal
 
-## Getting Started
+In this project, the main goal is to practice core concepts in Flutter and Dart such as State Management via setState(), Widgets positioning, custom Widgets creation, and more.
 
-This project is a starting point for a Flutter application.
+## The App
 
-A few resources to get you started if this is your first Flutter project:
+The app works as a tip calculator. The user inserts the bill amount and the number of people who will split the bill. Then, the app shows to the user the total amount to be paid per person and how much will be paid as tip per person as well.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Learning Topics Applied
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Widgets positioning
+* TextField Widget
+* Different Form validation
+* State Management with setState() function
+* TextEditingController
+* Maps in Dart
+
+## License
+
+This was a challenge proposed by [www.frontendmentor.io](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
+
